@@ -292,3 +292,5 @@ def process_podcast_info(url):
 
 if __name__ == '__main__':
     main()
+
+streamlit run podcast_frontend(2).py
